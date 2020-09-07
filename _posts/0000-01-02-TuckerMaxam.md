@@ -1,6 +1,6 @@
 ---
 layout: slide
-title: "Prganic vs. Paid"
+title: "Organic vs. Paid"
 ---
 -There are two different types of search results from search engines. One being organic results and the other being paid
 
